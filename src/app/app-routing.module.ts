@@ -9,7 +9,7 @@ const routes: Routes = [
   { path:'dashboard',component:DashboardComponent },
   { path:'home',component:HomeComponent },
   { path:'about',component:AboutComponent },
-  { path:'edit-profile',component:EditProfileComponent },
+  // { path:'edit-profile',component:EditProfileComponent },
 
   { path:'',component:DashboardComponent }
 ];

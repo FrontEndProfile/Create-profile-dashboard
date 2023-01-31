@@ -1,6 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { FormGroup, FormControl } from '@angular/forms';
-import { Firestore,collection,addDoc,collectionData,doc,updateDoc } from '@angular/fire/firestore'
+import { Firestore,collection,addDoc,collectionData,doc,updateDoc } from '@angular/fire/firestore';
 import { Observable } from 'rxjs';
 import { Output, EventEmitter } from '@angular/core';
 // import { Observer } from '@firebase/util';
